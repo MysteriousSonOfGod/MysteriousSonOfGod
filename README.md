@@ -1,10 +1,10 @@
 
 <h1 style='color:green;';>✨👋I'm a full stack Developer <!--from Congo-Brazzaville-->✨</h1>
-- 🔭 I a feeling off being a Master in Python,...well currently taking down javascript (...) <br>
+- 🔭 NOthing is impossible => I code untill I make it...
 - 🌱 in Python, i do a bit of DevOPs, ML, Data Science (Analyis,visualazation,...) <br><!--- 👯 I’m looking to collaborate on ...-->
 - 💬 I remani a open for chat,...<br>
 - 📫 How to reach me: ...<br>
-- ⚡ build your vision very fast & strategically!...⚡<br>
+- ⚡ I build your product, vision faster & strategically!...⚡<br>
 
 🚀 weaponary friends👯:<br>
 <img src='https://img.icons8.com/color/48/000000/javascript.png'></img>
