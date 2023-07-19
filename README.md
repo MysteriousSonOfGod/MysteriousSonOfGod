@@ -2,7 +2,7 @@
 <h1 style='color:green;';>✨👋I'm a full stack Developer <!--from Congo-Brazzaville-->✨</h1>
 - 🔭 NOthing is impossible => I code untill I make it...
 - 🌱 in Python, i do a bit of DevOPs, ML, Data Science (Analyis,visualazation,...) <br><!--- 👯 I’m looking to collaborate on ...-->
-- 💬 I remani a open for chat,...<br>
+- 💬 I remain open for chats, talk, discussion,...<br>
 - 📫 How to reach me: ...<br>
 - ⚡ I build your product, vision faster & strategically!...⚡<br>
 
